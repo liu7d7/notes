@@ -410,7 +410,7 @@
     1. the war has already started
     2. we should not stand idle
     3. a life of slavery is worse than dying for freedom
-    4. we should fight, rather than death
+    4. we should fight rather than give up freedom
 
 overall: we should fight for liberty immediately, because we have the means and have no choice other than to fight to preserve liberty.
 
