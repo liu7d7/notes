@@ -242,6 +242,17 @@
 - imitate style of poetry @ the time 
 - latinate voc, inversions, elevated diction
 
+### on being brought from africa to america
+
+- 'twas mercy that brought me from my pagan land: some amount of hegemony; views africa as some sort of poor and negative place
+- benighted soul: same idea; when she came from africa she was dark and bad and negative connotation and all that
+- taught that god exists
+- white ppl view sable (dar, negative connotation?) race w/ hate
+- diabolic, evil, devil, ...
+- black as cain: bad as person who'd kill bro
+- may be refined: white man's burden :(
+- join th'angelic train: converted to christ
+
 ## NA lit/texts
 
 ### what is tone?
