@@ -5,6 +5,7 @@
 - parallelism: using similar language constructs to convey similar ideas
 - apostrophe: speaker directly addr's an absent person, or an abstraction as if they are capable of understanding
 - conceit: elaborate metaphor
+- https://quizlet.com/1048136071/lit-terms-waller-flash-cards
 
 ## beginnings, 13-19
 
@@ -380,6 +381,6 @@
 - mr. president...provide for it
     1. people are predisposed to stay passive (hope) rather than act, even when they are stuck in a bad situation
     2. wise men do not choose to stay passive at a time like this
-    3. I want to know the whole truth (not stay passive)
+    3. therefore, I do not want to stay passive; I want to know the whole truth
 
-- 
+- I have but but one lamp...
