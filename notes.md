@@ -414,6 +414,47 @@
 
 overall: we should fight for liberty immediately, because we have the means and have no choice other than to fight to preserve liberty.
 
-uses logos the most
+uses logos the most; ethos and pathos also in 1st paragraph
 
-### 
+## the crisis tom paine
+
+this looks like pathos (religious appeals, anecdotes)
+
+- these are the times...
+    1. these are difficult times.
+    2. tyranny is difficult to overthrow, but hard conflicts pay off
+    3. we take freedom for granted
+    4. britain has the power to enslave us and is using that power
+    5. religious appeal: britain is taking powers that only god has
+
+- i have as little superstition...
+    1. god will not encourage war
+    2. I don't believe that we have fallen to the devils and incited war
+    3. therefore, the king of britain has little authority to be against us
+
+- i once felt all that kind of anger... (anecdote with dad in tavern)
+    1. some say to keep peace in the present
+    2. it is unfatherly to say that; we should fight now so that our children won't have to
+    3. we are separated from europe; we have nothing to do here other than trade
+    4. therefore, america has the potential to be a peaceful place
+    5. but war will always happen until foreign intervention is gone
+
+- i turn with the warm ardor of... (define who he is friends with; I wanna be his friend!)
+    1. friends with people who fight
+    2. friends with the little who save the all
+    3. friends with people continue despite adversity
+    4. this war has a divine purpose; the darn brits are saying they're gonna bind us!
+    5. call the king a brute
+
+- there are cases which cannot be overdone by language...
+    1. we cannot expect the enemy to be nice if they win
+    2. mercy is a trick of war when conquest is happening
+    3. we must stay vigilant so that we don't fall to this 
+
+- mutual fear is the principal link...
+    1. if the brits loved us, they'd try to get us to fear them?
+    2. the brits are gonna destroy us
+
+overall: argument against being a tory; again, we should fight immediately because it is for a good cause and because we cannot expect a good outcome if we do not fight.
+
+uses pathos the most, logos at the end
