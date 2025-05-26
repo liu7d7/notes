@@ -254,6 +254,14 @@
 - may be refined: white man's burden :(
 - join th'angelic train: converted to christ
 
+### to his excellency, george washington
+
+- tone: nationalistic, supportive, foreboding at times?
+- main idea: america is great! unprecedented power; great wherever it expands; poewrful army; powerful leader;
+- will defeat britain as we defeated france and any country for that matter
+- great chief is wash
+- desc. as monarch bc govt struct not defn'd yet
+
 ## NA lit/texts
 
 ### what is tone?
