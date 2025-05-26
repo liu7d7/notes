@@ -348,3 +348,38 @@
     - water animals: symbolizes teamwork, the power of nature to restore when humans help
     - turtle: wisdom
 
+## rhetoric basics
+
+- goal of rhetoric: persuade audience to think/act in a particular way
+    - that your ideas are valid/more valid than someone else's
+
+- ethos: convinse audience of your credibility; an ethical appeal
+    - asks audience to question credibility of speaker
+    - ex. churchill attacks monopoly everywhere, show committed to democracy
+    - ex. cicero appealed to his own practical wisdom, expertise as politician
+    - ex. demonstrate that ur not motivated by personal gain
+- logos: use of logic and reason; 
+    - rhetorical devices like analogies, examples, citations of research or statistics
+    - structure and content of speech too: use facts to convince audience
+    - persuasion by reasoning
+    - giving reasons is the heart of argumentation
+    - stats, comparisons & analogies, rhetorical questions
+    - logical fallacies can also be used to persuade
+- pathos: appeal to emotion; emotional appeal
+    - used for good or bad, irrational, unpredictable
+    - evokes deep, sympa feelings from audience (emotional manipulation)
+    - tugs @ heart, fears, desires
+    - anecdotes, similies, metaphors, imagery, charged words
+
+## give me liberty or give me death - pat henry
+
+- no man thinks...and without reserve: ethos; show his credibility as someone who is not charged with anger and is speaking rationally
+- this is no time...to this country: pathos; matter of slavery or freedom! scary!
+- for my own part...earthly kings: logos; this is a complex issue; we must be free to debate. it is only logical that I give my opinion now; if I do not, then we will not arrive at the truth.
+
+- mr. president...provide for it
+    1. people are predisposed to stay passive (hope) rather than act, even when they are stuck in a bad situation
+    2. wise men do not choose to stay passive at a time like this
+    3. I want to know the whole truth (not stay passive)
+
+- 
