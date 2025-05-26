@@ -381,6 +381,39 @@
 - mr. president...provide for it
     1. people are predisposed to stay passive (hope) rather than act, even when they are stuck in a bad situation
     2. wise men do not choose to stay passive at a time like this
-    3. therefore, I do not want to stay passive; I want to know the whole truth
+    3. therefore, I do not want to stay passive; I want to give & know the whole truth
 
-- I have but but one lamp...
+- I have but but one lamp...so long forging
+    1. we have no way of judging the future but with past examples
+    2. in the past 10 years, the british ministry has responded to our petition (for indep? peace?) with violence
+    3. we have not done anything violent
+    4. britain has no enemies in this bit of the world.
+    5. there is no motivation for britain to install war implements in our waters other than to fight us
+
+- and what have we to oppose...all that is left us!
+    1. argument does not work, as seen over the past 10 years
+    2. we do not have anything new to argue; argument will not work now.
+    3. making requests humbly has not worked
+    4. nothing we've tried before has worked; and we're humiliated.
+    5. our peaceful requests have incited more violence from the british
+    6. therefore, we must respond with violence if we mean to preserve our freedoms
+
+- they tell us...
+    1. we think we are not strong enough right now
+    2. we will not get stronger through irresolution and inaction
+    3. we have 3 million people
+    4. we have god
+    5. we cannot avoid battle now; it is either fight or die
+    6. in reality, we are not weak, and we can fight.
+
+- it is in vain, sir...
+    1. the war has already started
+    2. we should not stand idle
+    3. a life of slavery is worse than dying for freedom
+    4. we should fight, rather than death
+
+overall: we should fight for liberty immediately, because we have the means and have no choice other than to fight to preserve liberty.
+
+uses logos the most
+
+### 
