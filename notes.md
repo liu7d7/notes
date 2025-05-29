@@ -1,5 +1,165 @@
 # english notes
 
+## lit periods
+
+### early american (see under this heading 2)
+
+- sor juana inés de la cruz
+- anne bradstreet
+- olaudah equiano
+- phyllis wheatley
+- NA lit
+
+### rationalists (age of reason) (see under this heading 2)
+
+- thomas paine
+- patrick henry
+- johnathan edwards
+
+### crucible (see under this heading 2)
+
+- mcarthy
+- arthur miller
+
+### romanticism & dark romantics
+
+- dark romanticism: sometimes called anti-transcendentalism
+    - prefer intuition over logic, symbolism, motifs
+    - appeal to dark side of human psyche
+    - DR and transcendentalists both expl. crisis in society
+- melville
+- hawthorne 
+- william cullen bryant done
+- edgar allen poe
+    - the raven
+        - based on his wife dying of TB 
+        - is about man named lemore who loses his wife
+        - alliteration, repetition, rhyme
+        - allusions
+
+### transcendentalism
+
+- true reality is spiritual
+    - go beyond everyday human experience to determine the ultimate reality, according to emmanuel kant
+    - emerson: put idealism in a ore modern package; idealism is seeking permanant reality under physical appearances
+    - achieve human perfectability
+- ralpha waldo emerson
+    - only thoughts that come naturally to us are right, not those from reason
+    - disease, death, disaster expl.able spiritually
+    - optimism & hope appeals to ppl in reigious strife, financial crisis, tensions over slavery
+- more principles
+    - evthing is reflection of divine soul
+    - physical facts o' natural world are doorway to spiritual or ideal world
+    - the physical facts of the natural world -> spiritual or ideal world.
+    - bruh just remember intuition, nonconformity, skeptical of status quo
+- henry david thoreau
+- margaret fuller
+- walt whitman
+    - sociable
+    - expected fame
+    - influenced poetry as public speech
+    - 1st to break away from eu style
+    - free verse, goes w/ notion o' self reliance & democracy
+    - cataloging: list of actions/descriptions _is_ the structure of the poem
+    - sound devices, not imagery; alliteration, assonance, onomatopoeia
+    - wrote poetry for an audience
+    - i hear america singing: 1860, 40yo
+        - parallelism, depicts america as working together harmoniously, happy tone
+    - i sit and look out: 1880 60yo
+        - parallelism, negative, cynical tone
+- emily dickinson
+    - shy with her work, but only bc her father was religiously oppressive
+    - did not expect fame
+    - inspired ezra pound
+    - influenced careful observation, careful craft
+
+### kindred
+
+- octavia butler
+    - set in antebellum south
+    - written 1970s
+    - inspired by sci-fi authors: issac asimov, kurt vonnegut
+        - time travel used not for the sci-fi bit but as a plot device
+    - part of afrofuturism; 1970s trend
+
+- kindred book stuff
+    - lost: repeated three times in the first paragraph
+    - feeling of loss, physically and mentally
+    - relationship with kevin is close, he is security for her; he is the one tha tknows whatever the truth is
+    - hurt: police think kevin hurt her
+
+### modernism
+
+- f. scott fitzgerald
+- gertrude stein
+- hemingway
+    - iceberg writing style: only present tip of story, while leaving emotions, subtext, meaning beneath the surface
+- t.s. eliot
+
+- gg
+    - nick: narrator of novel; tolerant to others, not quick to judge, but judges inside, people tell him everything cos he listens
+    - "gatsby exempt from his reaction, what he represents bad, but his capacity for hope is admired"
+    - topics: money, class, wealth
+    - west, east egg: new, old wealth, progressive, conservative
+    - nick comes from some money, but is not as wealthy as dad
+    - less dense than new york city
+    - gatsby house: imitation of hotel in france
+    - key characters
+        - daisy: excitable, bored with life, jordan best friend, also bored; shows hollowness of money; daisy knows but doesn't do anything about cheating
+        - tom: aggressive and unpleasant; cruel body; focuses on body, not intellect; football player at yale? cheating with mistress
+        - jordan: a little too aloof, daisy tries to set her up with nick
+    - past tense: from nick's memory
+    - manhattan <- valley of ashes <- eggs
+    - green light
+
+- hemingway: soldier's home
+    - about krebs, came home from war late
+    - he has stories & trauma but evone else already bored, no one wants to listen
+    - he is lethargic, burnt out
+    - his family acts in his best interest
+    - pushed by family rahter than being pulled by ambitions
+    - ennui: bordom, depression, angst (feeling of deep anxiety or dread)
+    - krebs does not change; while he accepts the job, he stays numb and lacks ambition the whole time
+    - soldier's home: welcoming, nostalgic, happy, celebratory tone
+    - however, no one celebrates, he is not a hero
+        - he is called a soldier even though he isn't anymore; it's the only identity he has
+
+### imagism
+
+- william carlos williams
+    - this is just to say
+        - I've eaten your plums; straightforward apology, a little snarky
+        - 
+
+- american literary movement that brought in works of moernism
+- reject lengthy, flowery romanticist & victorian writing
+- precise description of a single image, using a different image to describe
+- prominently focused on imagery & figurative language
+
+- ezra pound
+    - in a station o' the metro: paris metro
+        - the apparition of these faces in a crowd, <- ghost-like image of person, people flooding onto the platform
+        - petals on a wet, black bough <- rainy, dark, each petal is a face
+
+### harlem renaissance
+
+- langston hughes: I, too
+- james weldon johnson: go down, death
+- claude mckay: america
+- countee cullen: tableau; incident
+
+### tgow
+
+- john steinbeck
+
+### arits
+
+- lorraine hansberry
+
+### einty
+
+- celeste ng
+
 ## stuff I think is impt.
 
 - parallelism: using similar language constructs to convey similar ideas
